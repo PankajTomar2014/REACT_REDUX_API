@@ -1,0 +1,39 @@
+.container{
+    height: 6%;   
+    width: 100%;
+    background-color: red;
+}
+.body{
+    display: flex;
+	height: 50px;
+	width: 100%;
+	background-color: chartreuse;
+}
+.body ul {
+    display: flex;
+    list-style: none;
+     
+}
+.body ul li{
+ margin-left: 35px; 
+ font-size: small;
+}
+.Logo{
+    background-color: chocolate;
+    height: 50px;
+	width: 5%;
+}
+.InsideLogDiv{
+    margin: 10px;
+   text-align: center;   
+}
+.SearchImage{
+    height: 35px;  
+    width: 35px;
+    border-radius: 20px;
+}
+.HeaderCenter{
+    height: 50px;   
+    background-color: darkblue;
+    width: 60%;
+}

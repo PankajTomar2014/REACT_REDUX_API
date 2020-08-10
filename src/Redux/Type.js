@@ -1,0 +1,4 @@
+
+export const FETCH_USERS_REQUEST = 'REQUEST'
+export const FETCH_USERS_SUCCESS = 'SUCCESS'
+export const FETCH_USERS_FAILURE = 'FAILURE'
